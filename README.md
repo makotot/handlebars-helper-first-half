@@ -1,1 +1,1 @@
-# {{ handlebars-helper-first-half }}
+# {{ firstHalf }}
