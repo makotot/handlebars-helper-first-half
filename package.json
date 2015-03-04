@@ -1,0 +1,11 @@
+{
+  "name": "handlebars-helper-first-half",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test.js"
+  },
+  "author": "makotot",
+  "license": "MIT"
+}
