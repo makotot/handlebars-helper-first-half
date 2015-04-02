@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-first-half",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Returns first half items of a collection",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test.js"

@@ -5,7 +5,7 @@ module.exports.register = function (Handlebars, options, param) {
       argLength = arg.length - 1,
       content = arguments[argLength];
 
-    var list = collection.slice(0, Math.floor((collection.length) / 2)),
+    var list = collection.slice(0, Math.ceil((collection.length) / 2)),
       result = '';
 
     list.forEach(function (val) {
